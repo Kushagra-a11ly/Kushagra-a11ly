@@ -1,13 +1,13 @@
 # Kushagra Mukund Dhamani — Data Analyst
 > Python · SQL · Power BI · Machine Learning · Tableau · Excel (Basic to Advanced)
 ---
-# About me
+About me
 I'm a data analyst with a strong foundation in end-to-end analytics — from ingesting and cleaning raw data to building dashboards that help teams make faster, better-informed decisions. My work sits at the crossroads of engineering precision and business communication: I care as much about whether an insight is actionable as whether the pipeline that produced it is sound.
-
 My core toolkit is Python (Pandas, NumPy, Matplotlib, Plotly) paired with SQL for data extraction and transformation, and Power BI for stakeholder-facing reporting. I'm currently deepening my expertise in statistical modelling, advanced feature engineering, and applying machine learning to business problems — with a focus on models that are interpretable, not just accurate.
-
 I believe great data work is 20% analysis and 80% communication. A model no one understands doesn't get used. A dashboard no one reads doesn't drive change. I try to build things that do both.
-🔭 I’m currently working on: End-to-end data analytics projects, transforming raw data into actionable insights using Python and Power BI <br>👯 I’m looking to collaborate on: Data analytics and business intelligence projects that drive real-world impact <br>🤝 I’m looking for help with: Scaling analytics solutions and applying machine learning to business problems <br>🌱 I’m currently learning: Advanced data modeling, statistical analysis, and machine learning techniques <br>💬 Ask me about: Python (Pandas, NumPy), SQL, Power BI, Excel, and data storytelling <br>⚡ Fun fact: I have a strong foundation in data analytics concepts and enjoy applying them to solve real-world problems
+
+Currently
+🔭 Working onEnd-to-end analytics pipelines — transforming raw data into actionable insights using Python and Power BI👯 Collaborating onData analytics and business intelligence projects with measurable real-world impact🤝 Looking for help withScaling analytics solutions and applying machine learning to business problems🌱 LearningAdvanced data modelling, statistical analysis, and machine learning deployment techniques💬 Ask me aboutPython (Pandas, NumPy), SQL, Power BI, Excel, and data storytelling⚡ Fun factI find the most rewarding part of analytics isn't the model — it's the moment an insight actually changes a decision
 ---
 ## Currently
 | | |
