@@ -50,5 +50,3 @@ I believe great data work is 20% analysis and 80% communication. A model no one 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kushagra-a11ly&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-
-[![](https://komarev.com/ghpvc/?username=Kushagra-a11ly&style=flat-square)](https://visitcount.itsvg.in)
