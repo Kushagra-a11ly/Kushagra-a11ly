@@ -2,12 +2,12 @@
 > Python · SQL · Power BI · Machine Learning · Tableau · Excel (Basic to Advanced)
 ---
 # About me
-I'm a data analyst with a strong foundation in end-to-end analytics — from ingesting and cleaning raw data to building dashboards that help teams make faster, better-informed decisions. 
-My work sits at the crossroads of engineering precision and business communication: I care as much about whether an insight is actionable as whether the pipeline that produced it is sound.
-My core toolkit is Python (Pandas, NumPy, Matplotlib, Plotly) paired with SQL for data extraction and transformation, and Power BI for stakeholder-facing reporting. 
-I'm currently deepening my expertise in statistical modelling, advanced feature engineering, and applying machine learning to business problems — with a focus on models that are interpretable, not just accurate.
+I'm a data analyst with a strong foundation in end-to-end analytics — from ingesting and cleaning raw data to building dashboards that help teams make faster, better-informed decisions. My work sits at the crossroads of engineering precision and business communication: I care as much about whether an insight is actionable as whether the pipeline that produced it is sound.
+
+My core toolkit is Python (Pandas, NumPy, Matplotlib, Plotly) paired with SQL for data extraction and transformation, and Power BI for stakeholder-facing reporting. I'm currently deepening my expertise in statistical modelling, advanced feature engineering, and applying machine learning to business problems — with a focus on models that are interpretable, not just accurate.
 
 I believe great data work is 20% analysis and 80% communication. A model no one understands doesn't get used. A dashboard no one reads doesn't drive change. I try to build things that do both.
+
 ---
 ## Currently
 | | |
