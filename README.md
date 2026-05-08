@@ -1,5 +1,5 @@
-# Kushagra — Data Analyst
-> Python · SQL · Power BI · Machine Learning
+# Kushagra Mukund Dhamani— Data Analyst
+> Python · SQL · Power BI · Machine Learning TAbleau and excel(Basic to Advanced)
 
 ---
 
