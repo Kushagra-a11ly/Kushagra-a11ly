@@ -76,7 +76,6 @@ This intersects with my data work in ways I find genuinely interesting:
 ![DALL·E](https://img.shields.io/badge/DALL·E-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B35?style=for-the-badge&logoColor=white)
 
-📁 Browse examples and prompt notes → [`ai-image-gallery`](./ai-image-gallery/)
 
 ---
 
